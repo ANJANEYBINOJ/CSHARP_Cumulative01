@@ -1,21 +1,19 @@
-#  ASP.NET Core Teacher Management System
+# SchoolProject - Teachers CRUD (READ Functionality)
 
-This project is a **C# ASP.NET Core MVC + Web API** application for managing teachers in a school database. It implements a complete **CRUD system** (Create, Read, Update, Delete) using **MySQL via XAMPP** and **ADO.NET** (without Entity Framework).
-
-Created for **Christine Bittle's Cumulative Project (Parts 1–3)**.
+This project is a **Minimum Viable Product (MVP)** for managing teacher data using **ASP.NET Core MVC**, **Web API**, and **MySQL (via XAMPP)**. It includes fully working **READ functionality** with server-rendered views and REST API endpoints.
 
 ---
 
 ##  Technologies Used
 
 - ASP.NET Core MVC (.NET 6+)
-- MySQL (via XAMPP)
-- ADO.NET with `MySql.Data`
-- Bootstrap 5 (CDN)
-- Visual Studio 2022 / VS Code
-- Git + GitHub
+- MySQL via XAMPP
+- ADO.NET (`MySql.Data`)
+- Bootstrap 5 (via CDN)
+- Visual Studio 2022+
+- HTML/CSS (server-rendered Razor Views)
 
 ---
 
-## Folder Structure
+## Project Structure
 
